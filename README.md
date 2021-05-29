@@ -11,9 +11,11 @@ There is the nice DSRemote Qt5 project, but the applicatin lacks the feature of 
 
 ### Updates
 
+    29.05.2021 : Correct scaling and positioning of analog channels
     28.05.2021 : Querying for active LA and analog channels
                  Drawing trigger icon at correct position
 
 ### To-Do
 
-    Correct scaling and positioning of analog channels
+    Add more icons and labels to reflect current settings
+    Get rid of the surrouding grid lines and values
