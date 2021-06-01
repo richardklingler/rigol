@@ -11,6 +11,7 @@ There is the nice DSRemote Qt5 project, but the applicatin lacks the feature of 
 
 ### Updates
 
+    01.06.2021 : Moved from PyQtGraph to regular PyQt5 drawing
     29.05.2021 : Correct scaling and positioning of analog channels
     28.05.2021 : Querying for active LA and analog channels
                  Drawing trigger icon at correct position
